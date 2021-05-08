@@ -1,6 +1,5 @@
-- Hi, I’m @ssorkhou.
-- I am interested in data science and machine learning. Detecting patterns and being able to find stories in raw data is fascinating!
-- I am currently finishing off my PhD in mathematics at the University of Toronto. At the same time, I am teaching myself all I can learn about data science in the hopes of pursuing a career in this field. I am working on some projects to hone my skills as well as for personal interest and I intend to post these projects here!
+- Hi, I’m @ssorkhou, a PhD student studying mathematics at the University of Toronto.
+- I am interested in data science and machine learning. Detecting patterns and being able to find stories in raw data is fascinating! I am balancing my time between my PhD studies and learning all I can about data science and machine learning. I am working on some projects to hone my skills as well as for personal interest and I intend to post these projects here!
 - Check out my [LinkedIn profile](https://www.linkedin.com/in/saied-sorkhou) for more about me.
 
 <!---

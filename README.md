@@ -1,5 +1,6 @@
-- Hi, I’m @ssorkhou, a PhD student studying mathematics at the University of Toronto.
-- I am interested in data science and machine learning. Detecting patterns and being able to find stories in raw data is fascinating! Currently I am balancing my time between my PhD studies and learning all I can about data science and machine learning. I am also working on some projects to hone my skills as well as for personal interest. I intend to post these projects here.
+- Hi, I’m @ssorkhou, a data scientist, technical trainer at Geotab.
+- I recently completed my PhD in mathematics at the University of Toronto.
+- I'm excited to continue my career in data science. The rapid improvements in technology make this an incredibly exciting field to be a part of!
 - Check out my [LinkedIn profile](https://www.linkedin.com/in/saied-sorkhou) for more about me.
 
 <!---
